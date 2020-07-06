@@ -35,7 +35,7 @@
     "require": {
         "illuminate/support": "~5.7|~5.8|^6.0|^7.0",
         "php": "^7.2",
-        "guzzlehttp/guzzle": "~6.2"
+        "guzzlehttp/guzzle": "^6.2.1|^7.0"
     },
     "require-dev": {
         "aws/aws-sdk-php": "^3.87",
